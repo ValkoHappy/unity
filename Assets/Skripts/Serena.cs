@@ -12,45 +12,34 @@ public class Serena : MonoBehaviour
 
     private AudioSource _audioSource;
     private Coroutine _fadeInJob;
-    private float _target = 1f;
 
     private void Start()
     {
         _audioSource = GetComponent<AudioSource>();
         _audioSource.volume = _minimunVolume;
+        _audioSource.Play();
     }
 
     public void PlaySerena()
     {
-        _target = _maximumVolume;
-        _audioSource.Play();
-        _fadeInJob =  StartCoroutine(FadeIn());
+        if (_fadeInJob != null)
+        {
+            StopCoroutine(_fadeInJob);
+        }
+        _fadeInJob = StartCoroutine(FadeIn(_maximumVolume));
     }
 
     public void StopSerena()
     {
-        _target = _minimunVolume;
         StopCoroutine(_fadeInJob);
-        _fadeInJob = StartCoroutine(FadeIn());
+        _fadeInJob = StartCoroutine(FadeIn(_minimunVolume));
     }
 
-    private void ChangeVolume()
-    { 
-        if (_audioSource.volume == _maximumVolume)
-        {
-            _target = _minimunVolume;
-        }
-        else if (_audioSource.volume == _minimunVolume)
-        {
-            _target = _maximumVolume;
-        }
-    }
-
-    private IEnumerator FadeIn()
+    private IEnumerator FadeIn(float target)
     {
-        while (_audioSource.volume != _target)
+        while (_audioSource.volume != target)
         {
-            _audioSource.volume = Mathf.MoveTowards(_audioSource.volume, _target, _speed * Time.deltaTime);
+            _audioSource.volume = Mathf.MoveTowards(_audioSource.volume, target, _speed * Time.deltaTime);
             yield return null;
         }
     }
