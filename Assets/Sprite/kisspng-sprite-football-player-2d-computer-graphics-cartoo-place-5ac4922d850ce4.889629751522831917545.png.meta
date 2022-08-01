@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: 4133ecf5c2a53704ba975ecb15ba9324
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 459
+        width: 127
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded9bb142d062d41844e0c16375ad8e
+      internalID: -1101703547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 457
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74cd7c6c4726414d91d4f878a39db0e
+      internalID: -593069718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 478
+        width: 160
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39edf4a80f8103a42b523f4d661961a9
+      internalID: -1323119181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 470
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81383aaa94d685b4787f8a42e8bda51b
+      internalID: 1789269244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 475
+        width: 159
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a309d2ccf1604f84887c78aee6db3
+      internalID: 1737874712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 467
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdbc0052c12c4a4586312d49aaa6dd1
+      internalID: 148038816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17354c13dca76448d5a6e11e7aa83e
+      internalID: -629856323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 247
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586bd25518ae5124d8c7be783df772df
+      internalID: -962995782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 244
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc112ff4b3919469ed14a00388746a
+      internalID: -1865203947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_9
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 225
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d51680a093eb84f849c87f5a81ac09
+      internalID: -2066350564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 214
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cada110103c2498667f50d9eaf2cb
+      internalID: 1412169903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 143
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b338308e86948a4ea05c9c257d3aa86
+      internalID: -2065895270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 143
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba51dafdee458418e5143b10d3dd6b
+      internalID: 1525988075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 143
+        width: 118
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413fd8ce97d5c614c9baccaee7a26d9e
+      internalID: -68837249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 187
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0da9c7dceabab4780547dd30b70ecb
+      internalID: 1662132388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 214
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329a97282546da4baac06e40aea35d6
+      internalID: -895808131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 214
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b4b3be7c0b2c04297534d0afe835dc
+      internalID: -1769544410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 184
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf21cc1f010ac4caa51ddf1ddba498
+      internalID: 779982797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_18
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 184
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68277b81af48d924095c569d3d355f6b
+      internalID: 1228488567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 143
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d157354fe4d6743b0c880dffb237df
+      internalID: -408683895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 143
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c88897b77123f4dada9cd7baccb414
+      internalID: -1918995104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 143
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c3afb7a9c0bdd4997a14f260c2a2e2
+      internalID: -900235862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_22
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 184
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b178186a23d3f0c428e3af062d4d97cc
+      internalID: 742827997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_23
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 143
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b546e5ffa7b14a409dbb5865d78396c
+      internalID: 387093117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 143
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2615487ae5adf468382cd64bd090a2
+      internalID: -2059224034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_25
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 143
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2afae98ca0cf24ab801c6c6308aa81
+      internalID: -1336439083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_26
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 143
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15283dd5f9f21948814a82b1d11f621
+      internalID: -1591502714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_27
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 84
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ce443bdd5f0b4587cf8ac98c10856
+      internalID: -515040627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 125
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f66efc5011d16488cfa156876307fd
+      internalID: 671406682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_29
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 84
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce68080fd37077448e6b3cdb3085c54
+      internalID: -718370003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 133
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fcf425e40762f4b95b9b7a98d3b69f
+      internalID: 1872988626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1966c29912beee043b6a40a5e8d3c89e
+      internalID: -481072003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 5
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa734e679d7f5549b7657d3900a18f5
+      internalID: -972931855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bae92376029d4292c6cef111db625
+      internalID: -836717457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_34
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 5
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bdc71fc5d539a46b9fd845b37e3c3e
+      internalID: -1998579556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 5
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0b0c57178af7449ca99776a949e1b
+      internalID: 632802779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_36
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 74
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e97c356899aa34aac0b791ee1181b4
+      internalID: -256831630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 50
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271048d645e9d1348a83ef6ccab88b49
+      internalID: 1221544570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 50
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ea678702be0134388da82f8ce3f2d3
+      internalID: -1681741581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_39
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 59
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ee9b13ea97444cbc5c10617661846
+      internalID: 289585948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_40
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 49
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c1a41f5153324986870fc25f69b7d
+      internalID: 1609820634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 49
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37abb8a2cda1a943b6a15563e0c35d2
+      internalID: -1931092267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_42
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 5
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bfb613e6ed27543ac7fcd0fa089cf2
+      internalID: -1367079103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_43
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 5
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5ab0af86f937b4faa11bee8e4b7321
+      internalID: -730641795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 5
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c57459708f7634d905671c449b6cb8
+      internalID: -1315680361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_45
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 34
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad70d848553b7419f7371dfbef085f
+      internalID: -1881678312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_46
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4977d1390f619418b9c9917ac38a90
+      internalID: -68430053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_47
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 5
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b45e7b77cac5345bfefcbfb4d2b119
+      internalID: -657765464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_48
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 5
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2108a7cd141cf914ba21db7b800001cf
+      internalID: -342408772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_49
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 6
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988feffbb3ab7d94e934d64292a93ed8
+      internalID: 1868408929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_26: -1591502714
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_11: -2065895270
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_7: -962995782
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_15: -895808131
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_44: -1315680361
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_4: 1737874712
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_18: 1228488567
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_9: -2066350564
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_46: -68430053
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_48: -342408772
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_6: -629856323
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_22: 742827997
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_36: -256831630
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_5: 148038816
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_47: -657765464
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_3: 1789269244
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_14: 1662132388
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_45: -1881678312
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_2: -1323119181
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_35: 632802779
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_38: -1681741581
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_17: 779982797
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_34: -1998579556
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_0: -1101703547
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_40: 1609820634
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_1: -593069718
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_23: 387093117
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_27: -515040627
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_39: 289585948
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_12: 1525988075
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_32: -972931855
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_31: -481072003
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_21: -900235862
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_8: -1865203947
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_24: -2059224034
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_10: 1412169903
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_41: -1931092267
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_42: -1367079103
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_33: -836717457
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_13: -68837249
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_19: -408683895
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_30: 1872988626
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_28: 671406682
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_49: 1868408929
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_29: -718370003
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_16: -1769544410
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_37: 1221544570
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_25: -1336439083
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_43: -730641795
+      kisspng-sprite-football-player-2d-computer-graphics-cartoo-place-5ac4922d850ce4.889629751522831917545_20: -1918995104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
